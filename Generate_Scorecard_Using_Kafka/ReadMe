@@ -1,0 +1,7 @@
+This program computes the scorecard of a match. The match commentry are send in interleave manner from producer to consumer. The folder contains the input files. 
+
+Steps to run the program:
+ -Run the kafka server at your pc
+ -Run the producer program
+ -Run consumer program 
+Please delete the kafka-logs before running the program.   
